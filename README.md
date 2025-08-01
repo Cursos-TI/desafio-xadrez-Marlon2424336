@@ -1,4 +1,4 @@
-## ♟️ Desafio de Xadrez - MateCheck
+## ♟️ Desafio de Xadrez
 
 ## 🧠 Níveis Implementados
 
